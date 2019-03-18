@@ -3,8 +3,6 @@ layout: page
 title: About me
 permalink: /about/
 ---
-
-# Ivanova Ksenia
 ### Student of Sarov National Research Nuclear University MEPhI  
 ### Age : 24
 ### From : Cheboksary
