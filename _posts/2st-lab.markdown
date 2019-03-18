@@ -1,4 +1,4 @@
-﻿---
+---
 layout: my labs
 title: "2st lab"
 ---
